@@ -431,4 +431,48 @@ Screenshots and supporting evidence from the practical exercises are organized i
 |---|---|---|
 | 1 | `01-whois.png` | WHOIS domain information |
 | 2 | `02-whatweb.png` | WhatWeb technology fingerprinting |
-| 3 | `03-nslookup
+| 3 | `03-nslookup.png` | DNS resolution results |
+| 4 | `04-curl.png` | HTTP response headers |
+| 5 | `05-wafw00f.png` | WAF detection results |
+| 6 | `06-dnsrecon.png` | DNS enumeration results |
+| 7 | `07-ipconfig.png` | Windows IP configuration |
+| 8 | `08-zenmap-scan.png` | Zenmap Ping Scan showing three live hosts |
+| 9 | `09-network-topology.png` | Zenmap network topology |
+
+## 9. Project Structure
+
+The recommended GitHub repository structure is:
+
+```text
+WEEK-2-PENETRATION-TESTING/
+│
+├── README.md
+│
+├── screenshots/
+│   ├── 01-whois.png
+│   ├── 02-whatweb.png
+│   ├── 03-nslookup.png
+│   ├── 04-curl.png
+│   ├── 05-wafw00f.png
+│   ├── 06-dnsrecon.png
+│   ├── 07-ipconfig.png
+│   ├── 08-zenmap-scan.png
+│   └── 09-network-topology.png
+│
+└── reports/
+    └── week-2-penetration-testing-report.pdf
+```
+
+---
+
+**PROGRAM:** Cybersecurity & Ethical Hacking Internship
+
+**ORGANIZATION:** NETWORKWALKS
+
+**BATCH:** B084
+
+**REPORT:** W2-PM-FINAL
+
+**AUTHOR:** Adigun Olamide Precious
+
+**END OF REPORT**
