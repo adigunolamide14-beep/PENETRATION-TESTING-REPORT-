@@ -1,0 +1,2 @@
+# PENETRATION-TESTING-REPORT-
+Footprinting &amp; Network Scanning Phases W2-PM-FINAL | CYBERSECURITY | NETWORKWALKS
